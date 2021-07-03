@@ -1,5 +1,4 @@
-![KOLADE O  ADETOYINBO3](https://user-images.githubusercontent.com/25622676/124329624-a592eb80-db83-11eb-83be-e7b8c2daa6fa.png)
-
+![KOLADE O  ADETOYINBO](https://user-images.githubusercontent.com/25622676/124342283-bdd22d00-dbba-11eb-9c7b-e42597b3a13f.png)
 
 <p align="center">
   <a href="https://github.com/CaptWeiss?tab=followers">
@@ -12,7 +11,6 @@
 
 ### Hi there 👋
 I'm a highly skilled web developer with more than 4 years of experience in developing both web backend and frontend services in a variety of domains and tech-stacks.
-
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CaptWeiss&count_private=true&show_icons=true&theme=tokyonight" />
