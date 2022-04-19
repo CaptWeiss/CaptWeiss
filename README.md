@@ -18,6 +18,8 @@ I'm a highly skilled web developer with more than 3 years of experience in devel
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=CaptWeiss&theme=tokyonight" />
 </p>
 
+[GitLab Account](https://gitlab.com/kolade2)
+
 <!--
 **CaptWeiss/CaptWeiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
